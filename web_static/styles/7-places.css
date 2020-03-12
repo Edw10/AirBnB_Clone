@@ -1,0 +1,25 @@
+.places{
+	text-align: center;
+}
+.places h1{
+	font-size: 30px;
+	margin-left: 0;
+	display: flex;
+}
+.places_name {
+
+	width: 390px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 20px;
+	border: 1px #FF5A5F solid;
+	border-radius: 4px;
+	display: inline-block;
+}
+
+.places_name h2{
+	text-align: center;
+	font-size: 30px;
+}
